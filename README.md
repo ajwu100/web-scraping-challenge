@@ -9,4 +9,4 @@ UNC Data Analytics Bootcamp
 4. index.html (stored in 'templates' folder): Take the mars data and display in the appropriate html elements.  One of the element is a "Get the Latest Update" button which will execute the scraping code (scrape_mars.py) and display the latest data on the html page.
 5. style.css (stored in 'static' folder): Referenced in index.html script and supports the formating of the html page.
 
-"Screenshots" Directory contains the 5 png images of the html page run locally after initiating the app.py script.  
+"Screenshots" Directory contains the 5 png images of the html page after initiating the app.py script and running on http://127.0.0.1:5000/ .  
