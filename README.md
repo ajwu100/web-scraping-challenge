@@ -2,8 +2,6 @@
 By: Ai-Jiuan Wu
 UNC Data Analytics Bootcamp
 
-Link to website:
-
 "Missions_to_Mars" Directory contains the following files :
 
 1. mission_to_mars.ipynb: Jupyter notebook with Python code written to scrape of 4 websites using Splinter and Beautiful Soup and to store all return data in a Python dictionary.  
